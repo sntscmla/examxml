@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Plants>
+    <Types_of_Plants>
+        <Trees>
+            <Name>
+                <Pinus>
+                    <Scientific_name>
+                        <Pine>
+                            <Types_of_Pinus>
+                                Pinus sylvestris
+                                Eatern white Pine
+                                Stone pine
+                            </Types_of_Pinus>
+                        </Pine>
+                    </Scientific_name>
+                </Pinus>   
+            </Name>
+        </Trees>    
+    </Types_of_Plants>
+    <Types_of_Flowers>
+        <Herbal_Plants>
+            <Name>
+                <Basil>
+                    <Smell>
+                        Basil has a strong, sweet smell that is both herbal and slightly citric.
+                            <Temperature>
+                                It prefers temperatures between 50°F–80°F. Basil is very sensitive to frost, so it's recommended to harvest your Basil beforehand, as the cold temperatures will kill your plants.
+                                    <Scientific_name>
+                                        <Ocimum_basilicum>
+                                        </Ocimum_basilicum>
+                                    </Scientific_name>
+                            </Temperature>
+                    </Smell>
+                </Basil>
+            </Name>
+        </Herbal_Plants>
+    </Types_of_Flowers>
+     <Poisonous_Plants>
+            <Name>
+                <Water_Hemlock>
+                    <Scientific_name>
+                        <Cicuta>
+                            <About_Water_Hermlock>
+                                 Water hemlock is UNSAFE for anyone to take by mouth or apply to the skin.
+                            </About_Water_Hermlock>
+                        </Cicuta>
+                    </Scientific_name>
+                </Water_Hemlock>
+            </Name>
+    </Poisonous_Plants> 
+    <Types_of_Flowers>
+        <Name>
+            <Rose>
+                  <Scientific_name> 
+                        <Rosa>
+                            <Symbolized_of_Rose>
+                                love and romance
+                                beauty and fragrance
+                            </Symbolized_of_Rose>
+                     </Rosa>
+                  </Scientific_name>
+            </Rose>
+        </Name>
+    </Types_of_Flowers>
+    <Types_of_Plants>
+        <Illegal_Plants>
+            <Name>
+                <Hemp>
+                    <Scientific_name>
+                        <Cannabis_Sativa>
+                            <Cannabis_lower_classification>
+                                Industrial Hemp
+                                Purple haze
+                                Blue dream
+                                Northen lights
+                            </Cannabis_lower_classification>
+                        </Cannabis_Sativa>
+                    </Scientific_name>
+                </Hemp>
+            </Name>
+        </Illegal_Plants>
+    </Types_of_Plants>
+</Plants>
